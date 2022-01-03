@@ -12,3 +12,8 @@ Please make sure that each day for each id can have 2 entries. Entry time and ex
 
 ### Extra points
 Anyone that can calculate working hours for each day as fifth column in _{id}-{month}-{year}.csv_ output file. 
+
+
+
+Please clone this repository and create your own branch with your name. 
+apply the changes to your own branch.
